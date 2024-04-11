@@ -1,0 +1,13 @@
+.news-bar-item {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.true {
+    font-weight: bold;
+}
+
+.news-bar {
+    display: flex;
+    margin: 20px;
+}
